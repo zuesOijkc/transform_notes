@@ -28,3 +28,5 @@ python get_pic.py --board g --thread 12345678
 # PR Merge: 2025-10-15 - refactor/merge-7258
 
 # PR Merge: 2025-10-15 - feature/merge-9741
+
+# PR Merge: 2025-10-15 - enhancement/merge-6600
